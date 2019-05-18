@@ -1,0 +1,12 @@
+{
+    "name": "jorgeley/php-gearman",
+    "require": {
+        "ext-gearman": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Jorgeley",
+            "email": "jorgeley@gmail.com"
+        }
+    ]
+}
